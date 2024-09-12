@@ -3,6 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/pariksh16560040" target="blank"><img src="https://img.shields.io/twitter/follow/pariksh16560040?logo=twitter&style=for-the-badge" alt="pariksh16560040" /></a> </p>
 
+- 🔭 I’m currently working on [Chap-application](https://chat-app-psi-neon.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://portfolio-eight-eta-35.vercel.app/](https://portfolio-eight-eta-35.vercel.app/)
+
+- 💬 Ask me about **MERN, Ts, Js**
+
+- 📫 How to reach me **parikshitgupta2001@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1v4zPBaTp3aAfGe65h4vqQJRB1Ej2DLmQ/view?usp=drive_link](https://drive.google.com/file/d/1v4zPBaTp3aAfGe65h4vqQJRB1Ej2DLmQ/view?usp=drive_link)
+
+- ⚡ Fun fact **I think there is rebirth after death**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pariksh16560040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pariksh16560040" height="30" width="40" /></a>
