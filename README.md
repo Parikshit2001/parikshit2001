@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/parikshit_200" target="blank"><img src="https://img.shields.io/twitter/follow/parikshit_200?logo=twitter&style=for-the-badge" alt="parikshit_200" /></a> </p>
 
-- 🔭 I’m currently working on [Chap-application](https://chat-app-psi-neon.vercel.app/)
+- 🔭 I’m currently working on [Chat-application](https://chat-app-psi-neon.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eight-eta-35.vercel.app/](https://portfolio-eight-eta-35.vercel.app/)
 
